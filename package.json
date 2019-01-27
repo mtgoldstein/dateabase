@@ -1,0 +1,27 @@
+{
+  "name": "dateabase.co",
+  "version": "1.0.0",
+  "description": "dateabase.co project",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtgoldstein/dateabase.git"
+  },
+  "keywords": [
+    "dateabase"
+  ],
+  "author": "Matt Goldstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtgoldstein/dateabase/issues"
+  },
+  "homepage": "https://github.com/mtgoldstein/dateabase#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nunjucks": "^3.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
